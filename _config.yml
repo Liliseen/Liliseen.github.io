@@ -16,7 +16,7 @@ timezone:
 
 title: Lilli's Journey
 
-tagline: 👁️ 💭   # it will display as the sub-title
+tagline: >-    # it will display as the sub-title
 
 
 description: >- # used by seo meta and the atom feed
